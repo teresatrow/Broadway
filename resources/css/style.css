@@ -3,10 +3,12 @@ body {
   text-align: center;
 }
 .header {
-  font-size: 70px;
   font-weight: bold;
   color: white;
   background-image: url("../images/the-flatiron-building.png");
+}
+h1 {
+  font-size: 70px;
 }
 h2 {
   font-size: 32px;
@@ -34,4 +36,5 @@ h5 {
 }
 .btn-nav {
   font-size: 18px;
+  color: white;
 }
